@@ -162,7 +162,7 @@
     self in type method
     
     
-    ？？？ 這個我真的不知道怎麼解釋～
+    可以藉由這個self，去存取這個創立的這個類的property跟method，不實體化直接叫用它們。
     
  
 */
